@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TreeFinder</string>    
+    <string name="action_settings">Settings</string>
+    <string name="home">HOME</string>
+    <string name="treefinder">TREEFINDER</string>
+    <string name="treefinder_actionbar">TreeFinder</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="first_question">What kind of leaf do you have ? </string>
+    <string name="touch">Touch Anywhere To Start </string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_final">FinalActivity</string>
+    <string name="wiki">Take Me To Wiki</string>
+    <string name="new_tree">Find Another Tree</string>
+
+</resources>

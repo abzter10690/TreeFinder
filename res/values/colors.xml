@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors take from Google Material Design -->
+    <color name="green">#AED581</color>
+    <color name="yellow">#FFF176</color>
+    <color name="darkgreen">#1B5E20</color>
+    <color name="white">#FFFFFF</color>
+        
+</resources>
